@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 Frontend Nomad: Roaming the coding wilderness, leaving trails of stunning UI behind.
-🎨 Painting the Digital Canvas: Turning ideas into interactive masterpieces with VueJS sorcery!
-🔮 Coding Crystal Ball: Predicting the future of frontend development, one commit at a time.
-🌐 Web Wizardry: Conjuring websites that make browsers do a double-take.
+- 🚀 Frontend Nomad: Roaming the coding wilderness, leaving trails of stunning UI behind.
+- 🎨 Painting the Digital Canvas: Turning ideas into interactive masterpieces with VueJS sorcery!
+- 🔮 Coding Crystal Ball: Predicting the future of frontend development, one commit at a time.
+- 🌐 Web Wizardry: Conjuring websites that make browsers do a double-take.
 
-💬 Let's decode the matrix of frontend development together! Open for conversations on design, code, and the next big thing in tech. 🚀✨
+- 💬 Let's decode the matrix of frontend development together! Open for conversations on design, code, and the next big thing in tech. 🚀✨
