@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🔮 Coding Crystal Ball: Predicting the future of frontend development, one commit at a time.
 - 🌐 Web Wizardry: Conjuring websites that make browsers do a double-take.
 
-- 💬 Let's decode the matrix of frontend development together! Open for conversations on design, code, and the next big thing in tech. 🚀✨
+ 💬 Let's decode the matrix of frontend development together! Open for conversations on design, code, and the next big thing in tech. 🚀✨
