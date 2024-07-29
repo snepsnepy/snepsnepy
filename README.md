@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile](https://c4.wallpaperflare.com/wallpaper/448/4/916/there-s-no-place-like-127-1-hd-there-s-no-place-like-l27-1-text-wallpaper-preview.jpg)
 - 🚀 Frontend Nomad: Roaming the coding wilderness, leaving trails of stunning UI behind.
 - 🎨 Painting the Digital Canvas: Turning ideas into interactive masterpieces with VueJS sorcery!
 - 🔮 Coding Crystal Ball: Predicting the future of frontend development, one commit at a time.
